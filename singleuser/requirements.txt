@@ -1,0 +1,15 @@
+torch>=2.0
+torchvision
+transformers>=4.30
+datasets
+tokenizers
+accelerate
+sentencepiece
+protobuf
+graphviz
+matplotlib
+seaborn
+pandas
+numpy
+ipywidgets
+tqdm
